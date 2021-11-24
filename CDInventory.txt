@@ -1,0 +1,6 @@
+1,Graduation,Kanye West
+3,Current,Tame Impala
+5,Nevermind,Nirvana
+6,Abbey Road,The Beatles
+7,Hotel California,Eagles
+4,Yellow Submarine,The Beatles
